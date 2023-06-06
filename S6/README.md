@@ -68,4 +68,4 @@ Estimated Total Size (MB): 3.15
 
 -----------------------------------------------------------------
 
-### Test set: Average loss: 0.0179, Accuracy: 9938/10000 (99.4%) 
+### Test set: Average loss: 0.0190, Accuracy: 9939/10000 (99.4%) 
