@@ -1,3 +1,5 @@
+# ERA S6 Assignment - Part 2 (MNIST Dataset)
+
 ## Target
  - 99.4% validation accuracy
  - Less than 20k Parameters
