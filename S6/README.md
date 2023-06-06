@@ -1,9 +1,10 @@
 # ERA S6 Assignment - Part 2 (MNIST Dataset)
 This project involves training a digit classifier (0-9) \
-The project consists of three files - \
-1. S6.ipynb - This is where the model training is done\
-2. model.py - This file consists of the model definintion, its forward function and the training/testing functions\
-3. utils.py - This file consists of the data loader code\
+\
+The project consists of three files -
+1. S6.ipynb - This is where the model training is done
+2. model.py - This file consists of the model definintion, its forward function and the training/testing functions
+3. utils.py - This file consists of the data loader code
 
 ## Target
  - 99.4% validation accuracy
