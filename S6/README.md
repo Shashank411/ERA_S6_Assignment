@@ -25,7 +25,7 @@ When do we stop convolutions and go ahead with a larger kernel or some other alt
 How do we know our network is not going well, comparatively, very early\
 Batch Size, and effects of batch size\
 
-## Model Summmary
+## Model Summary
 
 ``` ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
@@ -64,8 +64,6 @@ Forward/backward pass size (MB): 3.08
 Params size (MB): 0.07
 Estimated Total Size (MB): 3.15
 ----------------------------------------------------------------
+```
 
-
------------------------------------------------------------------
-
-### Test set: Average loss: 0.0190, Accuracy: 9939/10000 (99.4%) 
+## Test set: Average loss: 0.0190, Accuracy: 9939/10000 (99.4%) 
